@@ -1,0 +1,11 @@
+# Created at 2022-07-08T18:16:04.864
+Illegal type at constant pool entry 18 in class Academy.Listeners
+Exception Details:
+  Location:
+    Academy/Listeners.onTestFailedButWithinSuccessPercentage(Lorg/testng/ITestResult;)V @2: invokespecial
+  Reason:
+    Constant pool index 18 is invalid
+  Bytecode:
+    0000000: 2a2b b700 12b1                         
+
+
